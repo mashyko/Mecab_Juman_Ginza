@@ -1,0 +1,2 @@
+# NLP_BERT_Transformers
+日本語のtorchtextおよびtrasnsfomersを用いた言語処理
