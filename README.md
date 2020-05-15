@@ -1,4 +1,5 @@
-# Natural Language Processing: transformers,torchtext, gensim and spaCy 
+# Natural Language Processing: 
+transformers,torchtext, gensim and spaCy 
 
 BERT 及び Pytorch_transformers (transformers) の活用
 
